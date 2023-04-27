@@ -26,8 +26,9 @@ Since there is an arbitrary number of denominations, there may not be a combinat
 
 
 - **2b.**
+Arbitrary denominations k, vk is unpredictable
+N = weight
 
-OPT(i,w) = max{vi + OPT(i-1, w-wi), OPT(i-1, w)}
 
 
 
