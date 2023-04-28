@@ -1,7 +1,7 @@
 # CMPS 2200 Assignment 5
 ## Answers
 
-**Name:**_________________________
+**Name:** Ben Russell
 
 
 Place all written answers from `assignment-05.md` here for easier grading.
@@ -28,25 +28,6 @@ Since there is an arbitrary number of denominations, there may not be a combinat
 - **2b.**
 Arbitrary denominations k, vk is unpredictable
 N = weight
-
-
-
-
-- **3a.**
-
-
-
-
-
-
-- **3b.**
-
-
-
-
-
-
-- **3c.**
 
 
 
