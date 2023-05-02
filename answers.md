@@ -28,6 +28,7 @@ Since there is an arbitrary number of denominations, there may not be a combinat
 - **2b.**
 Arbitrary denominations k, vk is unpredictable
 N = weight
-
+Make a table for each denomination and values up to N dollars.
+Find minimum number of coins to get closest to N in the fewest number of coins
 
 
